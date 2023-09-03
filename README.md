@@ -5,11 +5,14 @@ See [IRrmoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266/blob/master
 
 Source code, schematic, printable STLs, and PCB layout coming soon<sup>tm</sup>.
 
-You can check out the demo hosted the my github pages that has some checks removed to play around with the system. 
+You can check out the hosted [demo](http://elon-f.github.io/) in the meantime, that has some checks removed to play around with the system. 
 
 ## Gallery
 
 Video demo:
 
-https://github.com/Elon-F/Elon-F.github.io/assets/115839001/36f284ad-dc17-435f-85cf-b3c9a763a1c7
-
+<div align="left">
+      <a href="https://youtu.be/ckvIfMO3f9M">
+         <img src="https://img.youtube.com/vi/ckvIfMO3f9M/0.jpg" style="width:300px;">
+      </a>
+</div>
