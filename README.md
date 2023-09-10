@@ -5,7 +5,7 @@ See [IRrmoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266/blob/master
 
 Source code, schematic, printable STLs, and PCB layout coming soon<sup>tm</sup>.
 
-You can check out the hosted [demo](http://elon-f.github.io/) in the meantime, that has some checks removed to play around with the system. 
+You can check out the hosted [demo](http://elon-f.github.io/) in the meantime. You'll need either a working ESP32 flashed with the .ino file, or you can run the python dummy server and use it in the frontend via http://localhost:5000.
 
 ## Gallery
 
